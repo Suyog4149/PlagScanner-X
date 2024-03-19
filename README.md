@@ -1,1 +1,1 @@
-# PlagScanner-X
+# PlagScanner-X: Plagiarism Detector Tool
